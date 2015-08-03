@@ -3,10 +3,6 @@
     "version": "1.2.0",
     "description": "Ace (Ajax.org Cloud9 Editor)",
     "main": "src-min/ace.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
     "license": "BSD",
     "bugs": {
         "url": "https://github.com/ajaxorg/ace-builds/issues"
